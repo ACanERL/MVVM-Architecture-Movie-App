@@ -3,7 +3,7 @@
 <h2>Overview</h2>
 <h3>Mvvm architecture was used in this project.</h3>
 The app was written in Kotlin.
-The API’s Docs: https://developers.themoviedb.org/3/getting-started
+The API’s Docs: https://developers.themoviedb.org/3/getting-started<br>
 
 Technologies and Libraries Used :
 
