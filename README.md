@@ -15,7 +15,7 @@ Technologies and Libraries Used :
 
 App Screen-Shot:
 
-![Screenshot_2023-11-12-13-08-03-649_com example moviemood](https://github.com/ACanERL/MVVM-Architecture-Movie-App/assets/71428865/e84a719b-1804-4507-8c07-78642280a96b)
+![Screenshot_2023-11-12-16-50-00-974_com example moviemood](https://github.com/ACanERL/MVVM-Architecture-Movie-App/assets/71428865/b2149cf2-5335-481d-941c-e3176f1687c4)
 ![Screenshot_2023-11-12-13-08-18-816_com example moviemood](https://github.com/ACanERL/MVVM-Architecture-Movie-App/assets/71428865/6df08da9-8f01-441c-923d-a0b726dae365)
 ![Screenshot_2023-11-12-13-08-36-792_com example moviemood](https://github.com/ACanERL/MVVM-Architecture-Movie-App/assets/71428865/2b1b0dfd-5e05-42f6-9541-e790bdb7d0dc)
 ![Screenshot_2023-11-12-14-48-55-271_com example moviemood](https://github.com/ACanERL/MVVM-Architecture-Movie-App/assets/71428865/22f73f59-217c-4a15-9470-7c53227e49ba)
