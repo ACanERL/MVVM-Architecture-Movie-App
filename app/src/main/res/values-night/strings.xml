@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="genres">Genres</string>
+    <string name="title_home">Home</string>
+    <string name="title_findMovie">Find</string>
+    <string name="title_mylist">MyList</string>
+    <string name="movies">Movies</string>
+</resources>

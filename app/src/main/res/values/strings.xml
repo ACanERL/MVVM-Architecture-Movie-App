@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieMood</string>
+    <string name="opening_txt">Fasten your seatbelt as MovieMood takes you on a thrilling ride through the world of cinema. From the first frame to the closing credits, let the show begin, and let the magic unfold.</string>
+    <string name="genres">Genres</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_findMovie">Find</string>
+    <string name="title_mylist">MyList</string>
+    <string name="trending">Trending Now</string>
+    <string name="nowplay">Playin Now</string>
+    <string name="movies">Movies</string>
+</resources>
