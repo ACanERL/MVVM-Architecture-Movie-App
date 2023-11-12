@@ -6,6 +6,7 @@ The app was written in Kotlin.
 The API’s Docs: https://developers.themoviedb.org/3/getting-started
 
 Technologies and Libraries Used :
+
 <li>Navigation Component</li>
 <li>View Binding</li>
 <li>Retrofit</li>
